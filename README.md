@@ -1,2 +1,2 @@
 # Amazign-Shop
-WEB Pet project
+WEB project
